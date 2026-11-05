@@ -1,0 +1,6 @@
+{
+  "name": "GOLGRAM - 대한민국 골프장 도장깨기 & 골프 커뮤니티",
+  "description": "대한민국 100대 골프장 및 10대 명문 골프장 도장 깨기, 22단계 새 캐릭터 레벨, AI 골프 비서 및 골프 동호회 커뮤니티 플랫폼",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
